@@ -34,3 +34,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Assets
+*.jpg
+*.mat
+*.mp3
+*.tga
