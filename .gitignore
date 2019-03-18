@@ -39,5 +39,7 @@ sysinfo.txt
 *.jpg
 *.mat
 *.mp3
+*.png
 *.tga
 *.fbx
+
