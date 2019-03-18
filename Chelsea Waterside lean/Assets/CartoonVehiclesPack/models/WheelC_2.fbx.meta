@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: bcc727cb4e35a454292d941befe9b8e3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100150: //RootNode
+    400150: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: WheelC_2
+    4300002: WheelC_1
+    4300004: WheelB_2
+    4300006: WheelB_1
+    4300008: WheelA_2
+    4300010: Wheel.001
+    4300012: Emitter3
+    4300014: TruckContainerC_03.003
+    4300016: Truck03.002
+    4300018: TruckContainerC_03.002
+    4300020: Truck02.001
+    4300022: TruckContainerC_03.001
+    4300024: Truck01.002
+    4300026: Emitter1
+    4300028: Ground
+    4300030: Emitter2
+    4300032: TruckContainerC_01
+    4300034: TruckContainerC_02
+    4300036: Truck03.001
+    4300038: TowTruckArm_part1
+    4300040: TowTruckArm_part2
+    4300042: TowTruckArm_part3
+    4300044: IceCreamVan
+    4300046: Limousine
+    4300048: Cube.027
+    4300050: Cube.026
+    4300052: Cube.025
+    4300054: Cube.024
+    4300056: Cube.016
+    4300058: Bus
+    4300060: Sport_Wheel_Small.005
+    4300062: Sport_Wheel_Small.004
+    4300064: Sport_Wheel_Small.003
+    4300066: SportCar03
+    4300068: Cube.020
+    4300070: Sport_Wheel_Small.002
+    4300072: Sport_Wheel_Big.002
+    4300074: Sport_Wheel_Big.001
+    4300076: Sport_Wheel_Small.001
+    4300078: Cube.017
+    4300080: SportCar02
+    4300082: SportCar01
+    4300084: Cube.023
+    4300086: Sport_Wheel_Small
+    4300088: Sport_Wheel_Big
+    4300090: Pickup02
+    4300092: Pickup03
+    4300094: Cube.022
+    4300096: Cube.021
+    4300098: Pickup01
+    4300100: SchoolBus
+    4300102: Cube.019
+    4300104: Cube.018
+    4300106: Taxi
+    4300108: TruckMixer_part1
+    4300110: TruckMixer_part2
+    4300112: TruckElevator_part1
+    4300114: TruckElevator_part2
+    4300116: TruckElevator_part3
+    4300118: TruckElevator_part4
+    4300120: TruckElevator_part5
+    4300122: TruckElevator_part6
+    4300124: TruckElevator_part7
+    4300126: Truck01.001
+    4300128: TruckContainerB_04
+    4300130: TruckContainerB_03
+    4300132: TruckContainerB_02
+    4300134: TruckContainerB_01
+    4300136: TruckContainerA_04
+    4300138: TruckContainerC_03
+    4300140: PoliceCar
+    4300142: Cube.015
+    4300144: Cube.014
+    4300146: Cube.013
+    4300148: Cube.012
+    4300150: Ambulance
+    4300152: CarB_01.004
+    4300154: CarB_01.003
+    4300156: CarB_01.002
+    4300158: CarB_01.001
+    4300160: Cube.011
+    4300162: Cube.010
+    4300164: Cube.009
+    4300166: Cube.008
+    4300168: CarB_01
+    4300170: TruckContainerA_03
+    4300172: TruckContainerA_02
+    4300174: Truck03
+    4300176: Truck02
+    4300178: TruckContainerA_01
+    4300180: Cube.007
+    4300182: Cube.006
+    4300184: Cube.005
+    4300186: Cube.001
+    4300188: Truck01
+    4300190: CarA_06
+    4300192: CarA_05
+    4300194: CarA_04
+    4300196: CarA_03
+    4300198: CarA_02
+    4300200: Cube.002
+    4300202: Cube.004
+    4300204: Cube.003
+    4300206: WheelA_1
+    4300208: CarA_01
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.7
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
